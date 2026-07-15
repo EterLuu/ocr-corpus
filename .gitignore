@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+baidu_ocr_results/
+ultimate_ocr_outputs/
+ocr_corpus/
+ocr_results/
+knowledge_base/
+.venv/
+.env
+url-map.json
+
+references/
+kws/
